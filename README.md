@@ -27,13 +27,13 @@ Alternatively, you can manually specify the path to the Tesseract executable if 
 1. Clone this repository to your local machine :
 
 ```bash
-git clone https://github.com/yourusername/IsNowConverter.git
+git clone https://github.com/sn0wyhik3r/isnowconverter.git
 ```
 
 2. Navigate to the project directory :
 
 ```bash
-cd IsNowConverter
+cd isnowconverter
 ```
 
 3. Install the required Python dependencies :
