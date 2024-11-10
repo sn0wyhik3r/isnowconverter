@@ -1,7 +1,5 @@
 # IsNowConverter
 
----
-
 **IsNowConverter** is a Python script that uses Optical Character Recognition ( OCR ) to extract text from images and saves the result in a text file. The script leverages the **Tesseract OCR** engine to process images, and it automatically names the output text file based on the current date.
 
 This project is ideal for automating the process of converting scanned documents, screenshots, or any image containing text into machine-readable text.
@@ -92,7 +90,5 @@ Feel free to contribute to **IsNowConverter** by submitting issues or pull reque
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Made with ❤️ by [snowyhiker](https://github.com/sn0wyhik3r)
