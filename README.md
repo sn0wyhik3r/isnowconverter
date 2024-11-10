@@ -24,19 +24,19 @@ Alternatively, you can manually specify the path to the Tesseract executable if 
 
 ## Installation
 
-1. Clone this repository to your local machine:
+1. Clone this repository to your local machine :
 
 ```bash
 git clone https://github.com/yourusername/IsNowConverter.git
 ```
 
-2. Navigate to the project directory:
+2. Navigate to the project directory :
 
 ```bash
 cd IsNowConverter
 ```
 
-3. Install the required Python dependencies:
+3. Install the required Python dependencies :
 
 ```bash
 pip install -r requirements.txt
@@ -63,7 +63,7 @@ python script.py path/to/your/image.png
 python script.py path/to/your/image.png
 ```
 
-### Example Output:
+### Example Output :
 
 - Extracted text will be displayed in the terminal.
 - A text file named `2024-11-10.txt` will be generated with the extracted text.
